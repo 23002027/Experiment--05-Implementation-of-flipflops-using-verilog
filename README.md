@@ -114,8 +114,8 @@
 
 ## Program:
 #### Program for flipflops  and verify its truth table in quartus using Verilog programming.
-#### Developed by: MUSFIRA MAHJABEEN
-#### RegisterNumber:  23002165
+#### Developed by: Kamesh RR
+#### RegisterNumber:  23002027
 
 ### SR Flip-Flop
 ```
